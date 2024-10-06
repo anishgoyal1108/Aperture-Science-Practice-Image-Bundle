@@ -6,7 +6,7 @@
 ![image](https://github.com/user-attachments/assets/32dea682-0864-4be8-a484-0d9f36e8940a)
 
 ## Introduction
-This repository contains a custom set of practice images that I created based on the *Portal* and *Half-Life* video game franchises, developed by Valve. These images were specifically designed to help participants prepare for the [CyberPatriot National Youth Cyber Defense Competition](https://www.uscyberpatriot.org/).
+This repository contains a custom set of practice images that I created based on the *Portal* and *Half-Life* video game franchises by Valve. These images were specifically designed to help participants prepare for the [CyberPatriot National Youth Cyber Defense Competition](https://www.uscyberpatriot.org/).
 
 CyberPatriot is a national cybersecurity competition created by the Air Force Association, aimed at fostering cybersecurity awareness and education among students. In the competition, teams are tasked with finding and fixing security vulnerabilities within virtual systems like Windows and Linux. This image bundle simulates the types of cybersecurity challenges participants face in the competition, offering a fun way to sharpen their skills.
 
